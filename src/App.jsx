@@ -7,7 +7,7 @@ import EditUser from './components/EditUser';
 import { Toaster } from 'react-hot-toast';
 import User from './components/User';
 
-export const baseurl = https://finacplus-backend.onrender.com/api/v1/user"
+export const baseurl = "https://finacplus-backend.onrender.com/api/v1/user"
 
 function App() {
   return (
